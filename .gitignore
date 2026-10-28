@@ -1,0 +1,10 @@
+# runtime state & user data — never commit
+daily_state.json
+applied_registry.json
+daily.log
+config.json
+reports/
+*.pdf
+profile.md
+resume*
+tracker.csv
